@@ -8,5 +8,10 @@ namespace sales_system
     {
         public String Name;
         public int Price;
+
+        public void ProductStatus()
+        {
+            Console.WriteLine("Name: {0}, Price: {1}", Name, Price);
+        }
     }
 }

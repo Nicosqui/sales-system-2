@@ -1,0 +1,13 @@
+D:\UNIVERSIDAD\Programación 3\Ejercicios\sales-system-2\sales-system-2\bin\Debug\netcoreapp3.1\sales-system-2.exe
+D:\UNIVERSIDAD\Programación 3\Ejercicios\sales-system-2\sales-system-2\bin\Debug\netcoreapp3.1\sales-system-2.deps.json
+D:\UNIVERSIDAD\Programación 3\Ejercicios\sales-system-2\sales-system-2\bin\Debug\netcoreapp3.1\sales-system-2.runtimeconfig.json
+D:\UNIVERSIDAD\Programación 3\Ejercicios\sales-system-2\sales-system-2\bin\Debug\netcoreapp3.1\sales-system-2.runtimeconfig.dev.json
+D:\UNIVERSIDAD\Programación 3\Ejercicios\sales-system-2\sales-system-2\bin\Debug\netcoreapp3.1\sales-system-2.dll
+D:\UNIVERSIDAD\Programación 3\Ejercicios\sales-system-2\sales-system-2\bin\Debug\netcoreapp3.1\sales-system-2.pdb
+D:\UNIVERSIDAD\Programación 3\Ejercicios\sales-system-2\sales-system-2\obj\Debug\netcoreapp3.1\sales-system-2.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\Programación 3\Ejercicios\sales-system-2\sales-system-2\obj\Debug\netcoreapp3.1\sales-system-2.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD\Programación 3\Ejercicios\sales-system-2\sales-system-2\obj\Debug\netcoreapp3.1\sales-system-2.AssemblyInfo.cs
+D:\UNIVERSIDAD\Programación 3\Ejercicios\sales-system-2\sales-system-2\obj\Debug\netcoreapp3.1\sales-system-2.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\Programación 3\Ejercicios\sales-system-2\sales-system-2\obj\Debug\netcoreapp3.1\sales-system-2.dll
+D:\UNIVERSIDAD\Programación 3\Ejercicios\sales-system-2\sales-system-2\obj\Debug\netcoreapp3.1\sales-system-2.pdb
+D:\UNIVERSIDAD\Programación 3\Ejercicios\sales-system-2\sales-system-2\obj\Debug\netcoreapp3.1\sales-system-2.genruntimeconfig.cache
